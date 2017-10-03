@@ -1,0 +1,8 @@
+
+#display_rainbow
+  accepts one argument
+  prints out the colors of the rainbow correctly when passed in in order
+
+Finished in 0.01702 seconds (files took 0.18424 seconds to load)
+2 examples, 0 failures
+
